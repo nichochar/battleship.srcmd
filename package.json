@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "tsx": "latest",
+    "typescript": "latest",
+    "@types/node": "latest"
+  }
+}
